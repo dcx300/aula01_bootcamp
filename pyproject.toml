@@ -1,6 +1,6 @@
 [project]
 name = "aula01-bootcamp"
-version = "3.13.5"
+version = "0.1.0"
 description = ""
 authors = [
     {name = "Daniel Carvalho",email = "daniel_ti@live.com"}
